@@ -1,1 +1,1 @@
-# Adaptive-Signal-Processing---Machine-Intelligence
+# Adaptive Signal Processing and Machine Intelligence
